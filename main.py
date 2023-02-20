@@ -1,0 +1,6 @@
+
+
+from fonction import *
+menu()
+
+
